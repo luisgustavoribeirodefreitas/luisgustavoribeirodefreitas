@@ -60,7 +60,6 @@ Atualmente estou aprofundando meus estudos em:
 - SQL
 - Desenvolvimento web
 - Machine Learning
-- Integração entre sistemas
 - Inteligência artificial aplicada a processos
 
 ---
