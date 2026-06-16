@@ -1,16 +1,75 @@
-## Hi there 👋
+# Luís Gustavo Ribeiro de Freitas
 
-<!--
-**luisgustavoribeirodefreitas/luisgustavoribeirodefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software com foco em **dados, automação, desenvolvimento e soluções com inteligência artificial**.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo e mantenho soluções internas utilizando ferramentas como **Power BI, Power Apps, Power Automate, e Copilot Studio**, além de estudar desenvolvimento web, banco de dados e machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+
+- Graduando em Engenharia de Software
+- Experiência com desenvolvimento de soluções internas
+- Criação de dashboards, automações e aplicações corporativas
+- Interesse em dados, BI, desenvolvimento web e inteligência artificial
+- Experiência com projetos envolvendo Power Platform, Supabase, GitHub Pages e visão computacional
+
+---
+
+## Tecnologias e ferramentas
+
+### Power Platform e Microsoft
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Desenvolvimento
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Banco de dados e backend
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Versionamento e deploy
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+---
+
+## Áreas de interesse
+
+- Análise e visualização de dados
+- Automação de processos
+- Desenvolvimento de aplicações internas
+- Business Intelligence
+- Inteligência artificial aplicada
+- Desenvolvimento web
+- Banco de dados
+- Machine Learning
+
+---
+
+## Em desenvolvimento
+
+Atualmente estou aprofundando meus estudos em:
+
+- Python
+- SQL
+- Desenvolvimento web
+- Machine Learning
+- Integração entre sistemas
+- Inteligência artificial aplicada a processos
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luís%20Gustavo%20Ribeiro%20de%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-gustavo-ribeiro-de-freitas-8aab81380)
