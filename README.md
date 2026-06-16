@@ -20,6 +20,11 @@ Estudante de Engenharia de Software com foco em **dados, automação, desenvolvi
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### Desenvolvimento
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
