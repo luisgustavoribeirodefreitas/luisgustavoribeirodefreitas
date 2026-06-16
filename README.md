@@ -2,8 +2,6 @@
 
 Estudante de Engenharia de Software com foco em **dados, automação, desenvolvimento e soluções com inteligência artificial**.
 
-Atualmente desenvolvo e mantenho soluções internas utilizando ferramentas como **Power BI, Power Apps, Power Automate, e Copilot Studio**, além de estudar desenvolvimento web, banco de dados e machine learning.
-
 ---
 
 ## Sobre mim
