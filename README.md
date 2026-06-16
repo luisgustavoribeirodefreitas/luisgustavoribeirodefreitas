@@ -7,10 +7,7 @@ Estudante de Engenharia de Software com foco em **dados, automação, desenvolvi
 ## Sobre mim
 
 - Graduando em Engenharia de Software
-- Experiência com desenvolvimento de soluções internas
-- Criação de dashboards, automações e aplicações corporativas
 - Interesse em dados, BI, desenvolvimento web e inteligência artificial
-- Experiência com projetos envolvendo Power Platform, Supabase, GitHub Pages e visão computacional
 
 ---
 
